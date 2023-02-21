@@ -213,6 +213,7 @@ ul{
     border-radius: 5px;
     border: 1px solid #ccc;
     margin-bottom: 20px;
+    max-height: 345px;
 }
 .education-block h5{
     color: #888;
