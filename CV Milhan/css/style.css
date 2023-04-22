@@ -251,13 +251,14 @@ ul {
 }
 
 .education-block {
-    width: 90%;
+    width: 85%;
     margin: 0 auto;
     text-align: center;
     padding: 30px;
     background-color: #e9ecef;
     border-radius: 5px;
     border: 1px solid #ccc;
+    ;
     margin-bottom: 20px;
     max-height: 345px;
 }
